@@ -14,7 +14,7 @@ How to install NumPy. Make sure you install numpy with Intel Math Kernel Library
 
 How to run code?
 
-The python notebook explains all the details of the implementations. 
+The python notebook has all the code and explains all the details of the implementations. 
 
 >ipython notebook ObjectClassification.ipynb
 
