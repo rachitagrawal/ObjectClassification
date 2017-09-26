@@ -1,0 +1,26 @@
+Prerequisites:
+1. Python 3.5+
+2. TensorFlow
+3. NumPy
+
+How to install TensorFlow:
+
+>pip install tensorflow
+
+How to install NumPy. Make sure you install numpy with Intel Math Kernel Library.
+
+>pip install numpy
+
+
+How to run code?
+
+The python notebook explains all the details of the implementations. 
+
+>ipython notebook ObjectClassification.ipynb
+
+Apart from this the project comes with the code cifar10_train.py. This contains the code to do the training. This is mostly used to do experiments and different iterations of the training. It can be run by using this command:
+
+>python cifar10_train.py
+
+
+
