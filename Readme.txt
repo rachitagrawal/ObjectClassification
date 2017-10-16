@@ -2,6 +2,7 @@ Prerequisites:
 1. Python 3.5+
 2. TensorFlow
 3. NumPy
+4. Keras
 
 How to install TensorFlow:
 
@@ -10,6 +11,10 @@ How to install TensorFlow:
 How to install NumPy. Make sure you install numpy with Intel Math Kernel Library.
 
 >pip install numpy
+
+How to install Keras.
+
+>pip install keras
 
 
 How to run code?
