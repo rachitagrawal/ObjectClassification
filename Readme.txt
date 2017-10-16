@@ -19,7 +19,7 @@ How to install Keras.
 
 How to run code?
 
-The python notebook explains all the details of the implementations. 
+The python notebook has all the code and explains all the details of the implementations. 
 
 >ipython notebook ObjectClassification.ipynb
 
